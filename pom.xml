@@ -11,7 +11,7 @@
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
          
-         <!---Hello World from Namuna --!>
+         <!---Hello World from Namuna Maharjan --!>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
